@@ -1,0 +1,6 @@
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\bin\Debug\FlickrDownload.exe
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\bin\Debug\FlickrDownload.pdb
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\obj\Debug\FlickrDownload.exe
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\obj\Debug\FlickrDownload.pdb
+C:\Users\josh\Documents\Visual Studio 2008\Projects\FlickrDownload\FlickrDownload\bin\Debug\FlickrDownload.exe.config
